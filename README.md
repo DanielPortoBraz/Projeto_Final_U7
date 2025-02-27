@@ -47,6 +47,9 @@ O código principal está estruturado em diferentes módulos:
 4. Conecte os sensores e atuadores conforme a especificação do hardware.
 5. Ligue o dispositivo e pressione o botão de coleta para iniciar a medição.
 
+## ⚠ Circuito do projeto ⚠
+Na pasta ```circuito_projetofinal```, o circuito desenvolvido na ferramenta KiCAD está incompleto, havendo a falta das conexões da **Válvula Solenoide** e a **Bomba Peristáltica** ao **ATmega328P**.
+
 
 ## Vídeo de demonstração: https://youtu.be/1dCOAVGKm1U?si=z-8TQcQN6Vf3Ad1i
 
